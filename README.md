@@ -30,6 +30,6 @@ FILE
 ----------------------------------------------
 there is attached some files to testing:
 ``
-...\ex\src\main\resources
+...\CalculatorExcercise\src\main\resources
 ``
 
