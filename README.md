@@ -11,7 +11,7 @@ we calculate for integers
 ----------------------------------------------
 quick run
 ----------------------------------------------
-run your cmd at root directory and then write:
+run your cmd at root directory of Calculator project and then write:
  
 ``
 mvn clean install
